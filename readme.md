@@ -1,6 +1,12 @@
 ## Engery Business Hour Prediction
 
-### Preview notebook in html:
+### Purpose:
+
+* Predict energy demand cycle by NMI meter reading. Show case some of the methods on ECG data set.
+* More efficient energy price prediction for saving cost. Help customer understand their budget.
+* Sell power to the grid more accurately with IoT device attached with power generator.
+
+### HTML Preview:
 
 https://htmlpreview.github.io/?https://raw.githubusercontent.com/ilovejs/EnergyDemandPrediction/master/static_html_as_backup/Playbook.html
 
