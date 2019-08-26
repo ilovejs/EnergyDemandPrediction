@@ -6,7 +6,9 @@ https://htmlpreview.github.io/?https://raw.githubusercontent.com/ilovejs/EnergyD
 
 ## Images
 
-[[files/auto_hmm.png]]
+![Auto HMM](files/auto_hmm.png)
+![z-Score](files/moving-zscore.png)
+- more image in the notebook
 
 ## Instruction for developer
 
