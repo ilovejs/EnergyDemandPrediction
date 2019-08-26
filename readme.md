@@ -4,6 +4,10 @@
 
 https://htmlpreview.github.io/?https://raw.githubusercontent.com/ilovejs/EnergyDemandPrediction/master/static_html_as_backup/Playbook.html
 
+## Images
+
+[[files/auto_hmm.png]]
+
 ## Instruction for developer
 
 * Playbook.ipynb to run
