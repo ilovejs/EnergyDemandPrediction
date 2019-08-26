@@ -1,8 +1,10 @@
-### Engery Business Hour Prediction
+## Engery Business Hour Prediction
 
-# Preview
+### Preview notebook in html:
 
 https://htmlpreview.github.io/?https://raw.githubusercontent.com/ilovejs/EnergyDemandPrediction/master/static_html_as_backup/Playbook.html
+
+## Instruction for developer
 
 * Playbook.ipynb to run
 
